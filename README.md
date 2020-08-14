@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-How to do it
-Download the .java file.
-Open CMD and write javac filename.java
-Run java filename
+This is tic tac toe game that run on java
+ How to do it
+1 Download the .java file.
+2 Open CMD and write javac filename.java
+3 Run java filename
